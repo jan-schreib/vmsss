@@ -1,0 +1,8 @@
+[package]
+name = "vmsss"
+version = "0.1.0"
+authors = ["Jan S."]
+
+[dependencies]
+actix-web = "0.7"
+vmctl-controller = { git = "https://github.com/jan-schreib/vmctl-controller" }
